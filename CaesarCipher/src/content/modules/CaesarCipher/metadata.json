@@ -1,0 +1,8 @@
+{
+	"source": "extend",
+	"version": "1.0.0",
+	"embed": false,
+	"objects": {
+		"CaesarCipher": "CaesarCipher.php"
+	}
+}

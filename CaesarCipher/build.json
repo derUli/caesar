@@ -1,0 +1,14 @@
+{
+	"id": "CaesarCipher",
+	"version": "1.0",
+	"description": "Caesar Cipher",
+	"categories": [
+		"caesar",
+		"encoding",
+		"admin",
+		"tool",
+		"utility",
+		"encryption"
+	],
+	"compatible_from": "2017.4"
+}
